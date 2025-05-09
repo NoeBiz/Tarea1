@@ -12,4 +12,4 @@ Subir un pdf
    * This text is both ***bold and italic***.
 
 
-![screen](https://github.com/NoeBiz/Practica7mayo/blob/main/logo.webp)
+[screen](https://github.com/NoeBiz/Tarea1/blob/main/TESIS.pdf)
