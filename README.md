@@ -13,3 +13,5 @@ Subir un pdf
 
 
 [screen](https://github.com/NoeBiz/Tarea1/blob/main/TESIS.pdf)
+![screen](https://github.com/NoeBiz/Tarea1/blob/main/upj.png)
+
